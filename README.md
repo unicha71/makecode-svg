@@ -9,6 +9,7 @@ The extension UI is available in Japanese and English and follows the browser la
 
 ## Usage
 
+0. download extension [here](https://github.com/unicha71/makecode-svg/releases) and extract somewhere.
 1. Open `chrome://extensions` in Google Chrome.
 2. Enable **Developer mode**.
 3. Click **Load unpacked** and select the `svg_only` folder.
