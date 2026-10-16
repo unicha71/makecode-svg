@@ -1,0 +1,29 @@
+{
+  "extensionDescription": {
+    "message": "Save all MakeCode micro:bit program blocks as an SVG without sticky-note labels."
+  },
+  "actionTitle": {
+    "message": "Save micro:bit program as SVG"
+  },
+  "initialStatus": {
+    "message": "Open the MakeCode program screen."
+  },
+  "exportButton": {
+    "message": "Save as SVG"
+  },
+  "hint": {
+    "message": "Save all visible program blocks with the surrounding whitespace trimmed."
+  },
+  "makeCodeTabNotFound": {
+    "message": "No MakeCode tab was found."
+  },
+  "blocksNotFound": {
+    "message": "No program blocks were found."
+  },
+  "exportSuccess": {
+    "message": "SVG saved."
+  },
+  "contextMenuTitle": {
+    "message": "Export as SVG"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "manifest_version": 3,
+  "name": "MakeCode micro:bit SVG Exporter",
+  "version": "1.0.0",
+  "default_locale": "en",
+  "description": "__MSG_extensionDescription__",
+  "permissions": [
+    "activeTab",
+    "contextMenus"
+  ],
+  "action": {
+    "default_title": "__MSG_actionTitle__",
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://makecode.microbit.org/*",
+        "https://makecode-microbit-org.translate.goog/*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "run_at": "document_idle"
+    }
+  ]
+}

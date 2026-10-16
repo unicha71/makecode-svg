@@ -1,0 +1,29 @@
+{
+  "extensionDescription": {
+    "message": "MakeCode micro:bitのプログラムブロック全体を付箋なしのSVGとして保存します。"
+  },
+  "actionTitle": {
+    "message": "micro:bitプログラムをSVGで保存"
+  },
+  "initialStatus": {
+    "message": "MakeCodeのプログラム画面を開いてください。"
+  },
+  "exportButton": {
+    "message": "SVGで保存"
+  },
+  "hint": {
+    "message": "表示中のプログラムブロック全体を、余白を詰めて保存します。"
+  },
+  "makeCodeTabNotFound": {
+    "message": "MakeCodeのタブが見つかりません。"
+  },
+  "blocksNotFound": {
+    "message": "プログラムブロックを見つけられませんでした。"
+  },
+  "exportSuccess": {
+    "message": "SVGを保存しました。"
+  },
+  "contextMenuTitle": {
+    "message": "SVGでエクスポート"
+  }
+}
