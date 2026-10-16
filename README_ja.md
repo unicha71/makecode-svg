@@ -3,7 +3,7 @@
 MakeCode micro:bitのプログラムブロックを、付箋なしの単体SVGとして直接保存するChrome拡張機能です。サーバー通信や外部変換ソフトは使用しません。
 
 ## 使い方
-
+0. [リリースページ](https://github.com/unicha71/makecode-svg/releases)からzipファイルをダウンロードし、適当なところに展開する。
 1. Chromeで `chrome://extensions` を開く。
 2. 「デベロッパーモード」を有効にする。
 3. 「パッケージ化されていない拡張機能を読み込む」で、この `svg_only` フォルダーを選ぶ。
