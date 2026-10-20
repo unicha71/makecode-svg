@@ -38,3 +38,5 @@ The conversion server runs on my personal home server. If you do not mind testin
 I'm also experimenting with a version that performs SVG-to-EMF conversion locally.
 
 My goal is to avoid requiring external software or remote servers, but I have not yet found a good solution. If you have any ideas or suggestions, please let me know.
+
+if you want to read more information, please read [this article](https://uni-cbg.com/post/547)
