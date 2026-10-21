@@ -1,6 +1,8 @@
 # MakeCode micro:bit SVG Exporter
 
-If you want to read japanese version, README_ja is [here](/README_ja.md)!
+### notice
+- If you want to read japanese version, README_ja is [here](/README_ja.md)!  
+- if you want to read more information, please read [this article](https://uni-cbg.com/post/547)
 
 A Chrome extension that exports MakeCode micro:bit program blocks as standalone SVG files without sticky-note labels.
 
@@ -38,5 +40,3 @@ The conversion server runs on my personal home server. If you do not mind testin
 I'm also experimenting with a version that performs SVG-to-EMF conversion locally.
 
 My goal is to avoid requiring external software or remote servers, but I have not yet found a good solution. If you have any ideas or suggestions, please let me know.
-
-if you want to read more information, please read [this article](https://uni-cbg.com/post/547)
